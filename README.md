@@ -4,8 +4,7 @@ This profile will be powered by [React.js](https://reactjs.org/).
 
 In addition, libraries used in this profile:
 
-[Gatsby](https://www.gatsbyjs.com),
-[fullPage.js](https://alvarotrigo.com/fullPage/),
+[Gatsby](https://www.gatsbyjs.com)
 [anime.js](https://animejs.com),
 [Masonry](https://masonry.desandro.com)
 
